@@ -139,6 +139,7 @@
 - [Kevin Johnston](https://github.com/kevdotdev)
 - [shreyansh] (https://github.com/shreyansh08)
 - [Jason Chan](https://github.com/QubeChan)
+- [Aakash]
 - [SteveMarshall](https://github.com/marshast)
 - [Fabian Terh](https://github.com/fterh)
 - [axux](https://github.com/axux)
